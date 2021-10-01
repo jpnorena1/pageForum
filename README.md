@@ -48,6 +48,7 @@ uikit-ecommerce-store/
 ![Captura de pantalla 2021-10-01 172811](https://user-images.githubusercontent.com/73927801/135692583-a5921582-808d-44f0-9e6c-e96e7571e10c.jpg)
 
 ```
+![Captura de pantalla 2021-10-01 173106](https://user-images.githubusercontent.com/73927801/135692906-b8bc93cb-3b10-4081-89bb-4a102ca3865b.jpg)
 
 ![Uploading Captura de pantalla 2021-10-01 172811.jpg…]()
 
