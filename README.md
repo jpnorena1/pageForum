@@ -4,7 +4,6 @@ Responsive e-commerce template containing catalog, filters, product page, shoppi
 
 
 
-Also you can see `Sass` port of this theme: [vkovic/uikit-computer-store-template](https://github.com/vkovic/uikit-computer-store-template) 
 
 
 
