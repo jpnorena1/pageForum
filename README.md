@@ -45,8 +45,11 @@ uikit-ecommerce-store/
 |   |   |    ├── index.pug
 |   |   ├── partials/
 |   ├── images/
+![Captura de pantalla 2021-10-01 172811](https://user-images.githubusercontent.com/73927801/135692583-a5921582-808d-44f0-9e6c-e96e7571e10c.jpg)
 
 ```
+
+![Uploading Captura de pantalla 2021-10-01 172811.jpg…]()
 
 ### Build
 
