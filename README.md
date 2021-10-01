@@ -2,7 +2,7 @@
 
 Responsive e-commerce template containing catalog, filters, product page, shopping cart and other elements of the online store. Built with [UIkit](https://getuikit.com).
 
-Demo: https://chekromul.github.io/uikit-ecommerce-template
+
 
 Also you can see `Sass` port of this theme: [vkovic/uikit-computer-store-template](https://github.com/vkovic/uikit-computer-store-template) 
 
