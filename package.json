@@ -1,5 +1,5 @@
 {
-  "name": "uikit-ecommerce-template",
+  "name": "uikit-ecommerce",
   "version": "1.0.0",
   "description": "E-commerce template built with UIkIt",
   "main": "index.js",
@@ -13,9 +13,8 @@
     "type": "git",
     "url": "https://github.com/chekromul/uikit-ecommerce-template.git"
   },
-  "author": "Roman Chekurov",
+  "author": "Juan Pablo Noreña Aguirre",
   "license": "MIT",
-  "homepage": "https://github.com/chekromul/uikit-ecommerce-template",
   "devDependencies": {
     "autoprefixer": "^9.1.0",
     "browser-sync": "^2.24.6",
