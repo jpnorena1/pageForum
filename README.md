@@ -50,9 +50,11 @@ uikit-ecommerce-store/
 ```
 ![Captura de pantalla 2021-10-01 173106](https://user-images.githubusercontent.com/73927801/135692906-b8bc93cb-3b10-4081-89bb-4a102ca3865b.jpg)
 
-![Uploading Captura de pantalla 2021-10-01 172811.jpg…]()
-
+![Home](https://user-images.githubusercontent.com/73927801/135692964-0b179110-617a-4659-b919-45e4043e0a40.jpg)
+)
+![info](https://user-images.githubusercontent.com/73927801/135693028-8b021a3f-4d7e-4e72-88e3-0c8a3a43f218.jpg)
 ### Build
+![pictureCart](https://user-images.githubusercontent.com/73927801/135693094-deb495a7-482d-4fd6-bbf1-cc3f486848c0.jpg)
 
 To clone and run this project, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](https://npmjs.com)) installed on your computer. From your command line:
 
