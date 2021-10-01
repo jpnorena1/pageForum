@@ -58,7 +58,7 @@ uikit-ecommerce-store/
 ### Build
 ![pictureCart](https://user-images.githubusercontent.com/73927801/135693094-deb495a7-482d-4fd6-bbf1-cc3f486848c0.jpg)
 
-To clone and run this project, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](https://npmjs.com)) installed on your computer. From your command line:
+
 
 ```bash
 # Clone this repository
@@ -74,10 +74,4 @@ $ npm install
 $ gulp
 ```
 
-## Copyright and Credits
 
-[Shopping Categories Colection](https://thenounproject.com/jarosigrist/collection/shopping-categories) icons by Jaro Sigrist from Noun Project. Licensed under Creative Commons Attribution 3.0.
-
-## License
-
-This software is licensed under the MIT License © [Roman Chekurov](https://github.com/chekromul)
